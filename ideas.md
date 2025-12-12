@@ -1,0 +1,19 @@
+- typical inefficiencies
+    - regexp compilation within loop
+    - find in array instead of map lookup
+    - building differences from arrays instead of using sets
+- Fibonacci numbers
+    - recursive algorithm
+    - recursive algorithm with memoization
+    - loop
+    - iterator
+- prime numbers
+    - finding prime numbers
+    - factorizing numbers - interleaved with iterator for finding prime numbers
+- order of iteration
+    - search for duplicates in array
+        - compare each value to each other value
+        - use a set and compare length to original array
+- sort algorithms
+    - quick sort
+    - merge sort
